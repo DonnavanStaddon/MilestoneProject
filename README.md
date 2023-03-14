@@ -3,6 +3,8 @@
 This project is to help indivduals buy the worlds fastest car.
 This website is useful if you are looking for the best car in the world.
 Users can get started with this project by downloading it from github.
+To download this project from github-
+click on code top right then click download zip.
 You may email me for help with this project vadcode@gmail.com 
 I am the sole contributor/maintainer of this project.
 
