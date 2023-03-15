@@ -32,5 +32,5 @@ I am the sole contributor/maintainer of this project.
 
 ## Wireframes
 
-[Home Page]("https://www.dropbox.com/s/qws77vmc15lnajw/home.png?dl=0")
+[Home Page](https://www.dropbox.com/s/qws77vmc15lnajw/home.png?dl=0)
 
