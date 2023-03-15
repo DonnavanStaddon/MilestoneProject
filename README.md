@@ -34,3 +34,5 @@ I am the sole contributor/maintainer of this project.
 
 [Home Page](https://www.dropbox.com/s/qws77vmc15lnajw/home.png?dl=0)
 
+[Resume Page](https://www.dropbox.com/s/iss6kb44unv3kh7/resume.png?dl=0)
+
