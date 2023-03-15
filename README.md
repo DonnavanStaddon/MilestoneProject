@@ -13,10 +13,10 @@ I am the sole contributor/maintainer of this project.
 
 ### Please note all links to my bullet points are bellow under links
 
-* I got used css from boostrap to make this website look good
+* I got css from boostrap to make this website look good
 * I used fontawsome for the icons
-* I got useful infomation of the car from the offical Hennesy website
-* I got useful infomation of the car from the perfomance drive website
+* I got useful infomation about the car from the offical Hennesy website
+* I got useful infomation about the car from the perfomance drive website
 
 ## Links
 
@@ -32,5 +32,5 @@ I am the sole contributor/maintainer of this project.
 
 ## Wireframes
 
-[Home Page]("../images/home.png")
+[Home Page]("https://www.dropbox.com/s/qws77vmc15lnajw/home.png?dl=0")
 
