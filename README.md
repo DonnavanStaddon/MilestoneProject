@@ -1,3 +1,16 @@
+# UX
+## Project Goals
+
+This primary goal of this project is to help a buyer buy the worlds fastest car.
+
+### Goals of this website
+
+The main target of this website are males and females between the ages of 18 and 80 years old.
+
+### Look and feel of website
+The look and feel of this website is designed and coloured to be beautiful and easy to navigate
+and at the same time easy on the eye.
+
 # Fastest Cars In the World 2023.
 
 This project is to help indivduals buy the worlds fastest car.
