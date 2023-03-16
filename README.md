@@ -68,8 +68,10 @@ To deploy this page to GitHub Pages from its GitHub repository, the following st
 
 i. The Home button leads back to the home page or main page of this website the home button features on all of the pages >Index.html >contact.html >resume.html i have tested the home button on all og these pages and it works
 
-ii. The contact button leads back to the contact page of this website the contact button features on all of the pages >Index.html >contact.html >resume.html i have tested the home button on all og these pages and it works
+ii. The contact button leads back to the contact page of this website the contact button features on all of the pages >Index.html >contact.html >resume.html i have tested the contact button on all og these pages and it works
 
-iii. The resume button leads back to the resume page of this website the resume button features on all of the pages >Index.html >contact.html >resume.html i have tested the home button on all og these pages and it works
+iii. The resume button leads back to the resume page of this website the resume button features on all of the pages >Index.html >contact.html >resume.html i have tested the resume button on all og these pages and it works
+
+iiii. The video button leads back to the videos page of this website the vidoes button features on all of the pages >Index.html >contact.html >resume.html i have tested the videos button on all og these pages and it works the vidoes button takes you to the vidoes section in th Official Hennessey videos website
 
 
