@@ -57,4 +57,14 @@ To deploy this page to GitHub Pages from its GitHub repository, the following st
 5. Under brunch select the dropdown menu and select main, then click save
 6. A link to your website has been created
 
+## Testing
+
+* I used W3C CSS to validate the css side of the website
+* I used W3C Markdown to validate the html side of the website
+
+# How i tested this website:
+
+I have scrolled throo this website and clicked on all the buttons to make sure all
+of the buttons and links work accordingly
+
 
