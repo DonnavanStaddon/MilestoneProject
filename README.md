@@ -50,6 +50,9 @@ function within gitpod.
 
 To deploy this page to GitHub Pages from its GitHub repository, the following steps where taken:
 
+
+## Lists
+
 1.Login into GitHub
 2.From the list of repositorys on the screen select DonnavanStaddon/MilestoneProject
 3.Select settings on the top right of the menu
