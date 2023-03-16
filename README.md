@@ -43,3 +43,18 @@ I am the sole contributor/maintainer of this project.
 
 [Videos Page](https://www.dropbox.com/s/odgvlffaazl6ll1/contact.png?dl=0)
 
+## Deployment
+
+This project was developed using gitpod, commited and pushed to github using the built in 
+function within gitpod.
+
+To deploy this page to GitHub Pages from its GitHub repository, the following steps where taken:
+
+1.Login into GitHub
+2.From the list of repositorys on the screen select DonnavanStaddon/MilestoneProject
+3.Select settings on the top right of the menu
+4.Select Pages on the left side
+5.Under brunch select the dropdown menu and select main, then click save
+6.A link to your website has been created
+
+
