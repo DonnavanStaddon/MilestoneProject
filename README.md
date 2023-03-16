@@ -62,9 +62,14 @@ To deploy this page to GitHub Pages from its GitHub repository, the following st
 * I used W3C CSS to validate the css side of the website
 * I used W3C Markdown to validate the html side of the website
 
-# How i tested this website:
+### How i tested this website:
 
-I have scrolled throo this website and clicked on all the buttons to make sure all
-of the buttons and links work accordingly
+#### I have scrolled throo this website and clicked on all the buttons to make sure all of the buttons and links work accordingly
+
+i. The Home button leads back to the home page or main page of this website the home button features on all of the pages >Index.html >contact.html >resume.html i have tested the home button on all og these pages and it works
+
+ii. The contact button leads back to the contact page of this website the contact button features on all of the pages >Index.html >contact.html >resume.html i have tested the home button on all og these pages and it works
+
+iii. The resume button leads back to the resume page of this website the resume button features on all of the pages >Index.html >contact.html >resume.html i have tested the home button on all og these pages and it works
 
 
