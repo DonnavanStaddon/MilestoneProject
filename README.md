@@ -41,5 +41,5 @@ I am the sole contributor/maintainer of this project.
 
 [Contact Page](https://www.dropbox.com/s/odgvlffaazl6ll1/contact.png?dl=0)
 
-[Videos](https://www.dropbox.com/s/odgvlffaazl6ll1/contact.png?dl=0)
+[Videos Page](https://www.dropbox.com/s/odgvlffaazl6ll1/contact.png?dl=0)
 
